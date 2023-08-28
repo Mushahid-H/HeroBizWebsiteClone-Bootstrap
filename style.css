@@ -9,6 +9,9 @@ a {
   font-weight: 600;
   font-stretch: extra-expanded;
 }
+.bold400 {
+  font-weight: 500;
+}
 
 body {
   background-color: #ffffffd7;
