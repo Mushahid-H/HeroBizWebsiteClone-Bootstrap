@@ -1,0 +1,15 @@
+a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+}
+.bold {
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: extra-expanded;
+}
+
+body {
+  background-color: #ffffffd7;
+}
