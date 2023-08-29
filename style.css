@@ -10,9 +10,20 @@ a {
   font-stretch: extra-expanded;
 }
 .bold400 {
+  font-size: 16px;
   font-weight: 500;
 }
 
 body {
   background-color: #ffffffd7;
+}
+.packages {
+  background-color: #d0e2f7;
+}
+
+.font-size-30 {
+  font-size: 30px;
+}
+.font-size-12 {
+  font-size: 12px;
 }
